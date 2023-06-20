@@ -8,3 +8,7 @@ The CNN Architecture section focused on designing the Convolutional Neural Netwo
 The Real-Time Implementation phase involved deploying the trained model to recognize characters in real-time scenarios. This could involve capturing images through a camera or processing scanned documents. The model was integrated with appropriate libraries and frameworks to enable real-time character recognition. The implementation was optimized to ensure efficient performance, enabling fast and accurate recognition of characters in real-world settings.
 
 Overall, the project achieved remarkable success, attaining a high accuracy rate of 99.01%. This demonstrates the effectiveness of the applied techniques in accurately recognizing characters from various sources, paving the way for applications such as automated document processing, text extraction, and more.
+
+I am attaching the link of the dataset used
+https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format?resource=download
+
