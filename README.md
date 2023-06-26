@@ -12,6 +12,16 @@ Overall, the project achieved remarkable success, attaining a high accuracy rate
 I am attaching the link of the dataset used
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format?resource=download
 
+Steps to run the project:
+1. Install dependencies: Install Python and run the command pip install keras numpy matplotlib opencv-python to install required packages.
+2. Ensure file setup: Make sure data_preprocessing.py, CNN-Architecture.py, and implementation.py are in the same directory.
+3. Preprocess data: Open data_preprocessing.py, modify the code to load and preprocess your dataset, and save the changes.
+4. Define CNN architecture: Open CNN-Architecture.py, implement your CNN model's architecture, configure layers and activation functions, and save the changes.
+5. Implement OCR: Open implementation.py, import necessary modules and code for data preprocessing and CNN architecture, implement training and evaluation code, and save the changes.
+6. Open terminal: Open your terminal or command prompt.
+7. Navigate to project directory: Use the cd command to navigate to the directory containing your project files.
+8. Run the project: Execute python implementation.py in the terminal to run the project. Monitor the terminal for progress and output.
+
 GUI Interface
 
 <img width="777" alt="Screenshot 2023-06-19 at 9 10 56 PM" src="https://github.com/ManalisJadhav/Optical-Character-Recognition-/assets/108777498/978a3ccc-c2cc-4e8b-985a-62397ce53e47">
