@@ -24,6 +24,11 @@ Steps to run the project:
 
 GUI Interface
 
+Keys used -
+1. D - To draw
+2. C - To crop
+3. E - To erase
+
 <img width="1062" alt="Screenshot 2023-06-26 at 7 43 18 PM" src="https://github.com/ManalisJadhav/Optical-Character-Recognition-/assets/108777498/e486eccd-e315-4818-80b1-1273c76b87a1">
 
 Character recognition
