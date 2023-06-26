@@ -24,7 +24,7 @@ Steps to run the project:
 
 GUI Interface
 
-<img width="777" alt="Screenshot 2023-06-19 at 9 10 56 PM" src="https://github.com/ManalisJadhav/Optical-Character-Recognition-/assets/108777498/978a3ccc-c2cc-4e8b-985a-62397ce53e47">
+<img width="1062" alt="Screenshot 2023-06-26 at 7 43 18 PM" src="https://github.com/ManalisJadhav/Optical-Character-Recognition-/assets/108777498/e486eccd-e315-4818-80b1-1273c76b87a1">
 
 Character recognition
 
