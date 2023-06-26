@@ -18,6 +18,10 @@ GUI Interface
 
 Character recognition
 
+<img width="1062" alt="Screenshot 2023-06-25 at 11 24 56 PM" src="https://github.com/ManalisJadhav/Optical-Character-Recognition-/assets/108777498/d957105d-59d1-4d6e-be7a-a689cc26ab43">
+
+Digit recognition
+
 
 
 
