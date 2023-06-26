@@ -22,6 +22,10 @@ Character recognition
 
 Digit recognition
 
+<img width="1062" alt="Screenshot 2023-06-25 at 11 27 26 PM" src="https://github.com/ManalisJadhav/Optical-Character-Recognition-/assets/108777498/9079c0eb-1d37-4c28-83cb-2248465775ae">
+
+
+
 
 
 
