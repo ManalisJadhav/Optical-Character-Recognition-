@@ -13,6 +13,7 @@ I am attaching the link of the dataset used
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format?resource=download
 
 GUI Interface
+
 <img width="777" alt="Screenshot 2023-06-19 at 9 10 56 PM" src="https://github.com/ManalisJadhav/Optical-Character-Recognition-/assets/108777498/978a3ccc-c2cc-4e8b-985a-62397ce53e47">
 
 Character recognition
