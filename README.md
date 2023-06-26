@@ -1,4 +1,4 @@
-# Optical-Character-Recognition-
+# Optical-Character-Recognition
 The project title is "Optical Character Recognition." The entire project was segmented into three main sections: Data Pre-processing, CNN Architecture, and Real-Time Implementation. The model achieved an impressive accuracy rate of 99.01%.
 
 In the Data Pre-processing phase, various techniques were employed to prepare the input data for the OCR model. This involved steps such as image resizing, noise removal, and contrast enhancement to enhance the quality of the input images. These preprocessing techniques played a crucial role in improving the model's accuracy by ensuring that the input data was clean and well-suited for training.
